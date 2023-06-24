@@ -1,0 +1,4 @@
+Code,Author & Created time,Formula,Ideal For
+Gunning Fog,Gunning (1952),0.4[(words/sentences)+100(difficult words/words)],Business Literature
+The New Dale-Chall,Chall & Dale (1995),3.6365+{0.1579{100-{[(WC-difficult words)/WC]*100}}+0.0496[(words/sentences)]},Student Materials
+Flesch Reading Ease score,Flesch (1979),206.835-[1.015(words/sentences)-84.6(difficult words/words)],General Usage
